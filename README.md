@@ -12,26 +12,56 @@ urlFragment: apps-calculator
 
 # Calculator Sample App
 
-This basic calculator demonstrates using span and spacing features of a Grid layout to achieve a familiar interface.
 
-For more information, see the [Grid documentation](https://docs.microsoft.com/dotnet/maui/user-interface/layouts/grid).
 
-![Calculator Mac application screenshot](images/p.png "Calculator application screenshot")
+# Calculator
+----
+### Team Members: 
+anil
+anudeep
+Rahul
 
-![Calculator iOS application screenshot](images/q.png "Calculator application screenshot")
+----
+### Teammate's Contribution:  
 
-Anil Kumar Putta:
-     Major commits: 1)UI buttons were added to MainPage.XAML.
-                    2)for those new buttons in MainPage.XAML.CS, backend logic was developed.    
+#### Anil
+ 
+  
+  ##### Assignment2:
+  1. Flyout add
+  2. General Style for the exercise Page
+  3. Load Question and answer
+  4. Documentation
+  
+#### Anudeep
+ 
 
-Anudeep:
-     Major commits:
-                    1)change styles.xaml for a better look.
-                     2)modified UI button designs layouts
+  ##### Assignment2:
+1. Validate answer based
+2. Logic for Correct answer
+3. Logic for incorrect answer
+4. 	Try again
+5. 	Skip to Next
+6. Next quiz
 
-                    
-Rahul:
-     Major commits:
-                       1)added AppShell.xaml and AppShell.xaml.cs for sidenav
-                       2)Created About.xaml and About.xaml.cs for about page
-                       3)Did connection routes with previous pages.
+#### Rahul
+
+  ##### Assignment2:
+  1. API implementation:
+  2. API skeleton
+  3. API call from UI
+
+
+----
+### Images:  
+ 
+ 
+
+  #### Assignment2: 
+![](images/a.png)
+![](images/b.png)
+![](images/c.png)
+![](images/d.png)
+![](images/e.png)
+![](images/f.png)
+
